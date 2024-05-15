@@ -1,7 +1,5 @@
 # ai-case-study
 
-# ai-case-study
-
 ## Overview and Origin
 
 [HighRadius was incorporated](https://www.highradius.com/about/news/highradius-announces-strong-growth-in-2022/#:~:text=More%20than%20800%20of%20the%20world%E2%80%99s%20leading%20companies,Solutions%2C%20Kellogg%20Company%2C%20Danone%2C%20Hershey%E2%80%99s%2C%20and%20many%20more.) in 2006 by Sashi Narahari. The company originally started with an on-premise solution, offering software that could be installed on a company's own servers to streamline its accounts receivable processes.The idea for HighRadius came about Sashi Narahari recognized the need for automation and efficiency in the accounts receivable processes of businesses. Narahari identified that many organizations were still relying on manual and outdated methods for managing their receivables, leading to inefficiencies, errors, and delays in cash flow.Narahari saw an opportunity to leverage technology, specifically artificial intelligence and machine learning, to streamline and automate AR processes, ultimately improving cash flow management for businesses. This vision led to the founding of HighRadius with the goal of providing innovative software solutions to optimize receivables and treasury management processes. HighRadius raised over $475 million from Susquehanna Growth Equity, ICONIQ Capital, Tiger Global, D1 Capital, and tech industry leaders such as Frank Slootman (Snowflake) & Howie Liu (Airtable).
